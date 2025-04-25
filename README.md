@@ -1,2 +1,2 @@
 # Airline-authority-analysis-by-using-power-bi
-This project focuses on analyzing airline operations data to assess performance metrics such as flight delays, cancellations, on-time performance, and traffic patterns across various airlines, months, days of the week, and airports.
+This project presents an interactive Airline Authority Analysis Dashboard aimed at understanding airline performance across various parameters including flight cancellations, delays, and on-time arrivals. Using comprehensive visualizations, it enables users to quickly interpret trends, performance metrics, and opportunities for operational improvement.
