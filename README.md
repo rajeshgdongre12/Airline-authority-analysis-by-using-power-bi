@@ -1,10 +1,8 @@
-# Airline-authority-analysis-by-using-power-bi
-
-This project is a Power BI dashboard that provides deep insights into airline performance and traffic trends using historical flight data. The dashboard allows users to interactively explore airline performance metrics, helping identify patterns in delays, cancellations, and overall flight behavior.
+# Airline-authority-analysis-using-power-bi
 
 # Project Overview
 
-The Airline Authority Analysis and Airline Traffic dashboards were developed to assist stakeholders—such as aviation authorities, airline companies, and airport management—in making data-driven decisions based on flight performance data.
+This project is a Power BI dashboard that provides deep insights into airline performance and traffic trends using historical flight data. The dashboard allows users to interactively explore airline performance metrics, helping identify patterns in delays, cancellations, and overall flight behavior.
 
 # Key Features
 
